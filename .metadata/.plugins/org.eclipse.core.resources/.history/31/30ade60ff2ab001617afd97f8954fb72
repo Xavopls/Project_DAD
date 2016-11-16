@@ -1,0 +1,11 @@
+package pkg_1;
+
+import java.util.List;
+
+public class Stations {
+	private List<Station> stations;
+	
+	public Station getNStation(int n) {
+		return stations.get(n);
+	}
+}

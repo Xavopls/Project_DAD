@@ -1,0 +1,17 @@
+package pkg_1;
+
+import java.util.Date;
+
+import org.quartz.Job;
+import org.quartz.JobExecutionContext;
+import org.quartz.JobExecutionException;
+
+public class ScheduledTestJob implements Job {
+
+	Client client = ClientBuilder.newClient();
+
+	public void execute(JobExecutionContext context) throws JobExecutionException {
+		System.out.println("Executing ScheduledTestJob at " + new Date());
+		WebTarget targetAdd = client.target("http://wservice.viabicing.cat/v2/stations");
+	}
+}
