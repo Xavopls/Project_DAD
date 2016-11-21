@@ -30,6 +30,9 @@ public class Station {
 	}
 
 	// GETTERS AND SETTERS
+	
+	public Station(){};
+	
 	public String getId() {
 		return id;
 	}
