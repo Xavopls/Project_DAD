@@ -35,9 +35,9 @@ public class Stations {
 		int total = 0;
 		int num = 0;
 		for (int i = 0; i < stations.size(); i++) {
-			if (stations.get(i).getType().equals("BIKE")) {
+			if (stations.get(i).getType() == "BIKE") {
 				total++;
-				if (!stations.get(i).getBikes().equals("0"))
+				if (stations.get(i).getBikes() != "0")
 					num += Integer.parseInt(stations.get(i).getBikes());
 			}
 		}
@@ -48,9 +48,9 @@ public class Stations {
 		int total = 0;
 		int num = 0;
 		for (int i = 0; i < stations.size(); i++) {
-			if (stations.get(i).getType().equals("BIKE-ELECTRIC")) {
+			if (stations.get(i).getType() == "BIKE-ELECTRIC") {
 				total++;
-				if (!stations.get(i).getBikes().equals("0"))
+				if (stations.get(i).getBikes() != "0")
 					num += Integer.parseInt(stations.get(i).getBikes());
 			}
 		}
@@ -63,9 +63,9 @@ public class Stations {
 		int total = 0;
 		int num = 0;
 		for (int i = 0; i < stations.size(); i++) {
-			if (stations.get(i).getType().equals("BIKE")) {
+			if (stations.get(i).getType() == "BIKE") {
 				total++;
-				if (!stations.get(i).getSlots().equals("0"))
+				if (stations.get(i).getSlots() != "0")
 					num += Integer.parseInt(stations.get(i).getSlots());
 			}
 		}
@@ -76,9 +76,9 @@ public class Stations {
 		int total = 0;
 		int num = 0;
 		for (int i = 0; i < stations.size(); i++) {
-			if (stations.get(i).getType().equals("BIKE-ELECTRIC")) {
+			if (stations.get(i).getType() == "BIKE-ELECTRIC") {
 				total++;
-				if (!stations.get(i).getSlots().equals("0"))
+				if (stations.get(i).getSlots() != "0")
 					num += Integer.parseInt(stations.get(i).getSlots());
 			}
 		}
@@ -108,10 +108,10 @@ public class Stations {
 		int opn_num = 0;
 		int total = 0;
 		for (int i = 0; i < stations.size(); i++) {
-			if (stations.get(i).getType().equals("BIKE-ELECTRIC")) {
+			if (stations.get(i).getType() == "BIKE-ELECTRIC") {
 				total++;
 
-				if (stations.get(i).getStatus().equals("OPN")) {
+				if (stations.get(i).getStatus() == "OPN") {
 					opn_num++;
 				}
 			}

@@ -21,11 +21,11 @@ public class ScheduledTestJob implements Job {
 		});
 
 		List<Station> list = stations.getStations();
-		 System.out.println("Porcentaje de estaciones operativas");
-		 System.out.println(stations.avg_status_normalBike());
-		/*for (int i = 0; i < list.size(); i++) {
+		// System.out.println("Porcentaje de estaciones operativas");
+		// System.out.println(stations.avg_status_normalBike());
+		for (int i = 0; i < list.size(); i++) {
 			System.out.println(list.get(i).getType());
 		}
-*/
+
 	}
 }
