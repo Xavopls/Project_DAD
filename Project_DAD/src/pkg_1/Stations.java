@@ -5,12 +5,10 @@ import java.util.List;
 public class Stations {
 	private List<Station> stations;
 
-	public Stations() {
-	}
+	public Stations() {}
 
 	public Stations(List<Station> stations) {
 		this.stations = stations;
-
 	}
 
 	public List<Station> getStations() {
@@ -20,7 +18,24 @@ public class Stations {
 	public void setStations(List<Station> stations) {
 		this.stations = stations;
 	}
+	
+	public void addStation(Station station) {
+		stations.add(station);
+	}
 
+	public void removeStation(Station station) {
+		stations.remove(station);
+	}
+	
+	public Station getStation(String id) {
+		for (Station station : stations) {
+			if (station.getId().equalsIgnoreCase(id)) {
+				return station;
+			}
+		}
+		return null;
+	}
+	 
 	@Override
 	public String toString() {
 		return "Stations [stations=" + stations + ", getStations()=" + getStations() + ", getClass()=" + getClass()
