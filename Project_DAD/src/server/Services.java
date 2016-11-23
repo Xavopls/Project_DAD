@@ -15,26 +15,22 @@ import javax.ws.rs.core.Response;
 
 import pkg_1.Stations;
 import pkg_1.Station;
-import pkg_1.Clients;
-import pkg_1.Client;
+import pkg_1.Users;
+import pkg_1.User;
 
 @Path("/services")
 public class Services {
 
 	static Stations stations;
-	static Clients clients;
+	static Users clients;
 	
-	public Services(Stations _stations, Clients _clients) {
-		stations = _stations;
-		clients = _clients;
-	}
 	
 	/* POST METHODS */
 	@POST
 	@Path("/client/add")
 	@Consumes(MediaType.APPLICATION_JSON)
 	@Produces(MediaType.APPLICATION_JSON)
-	public Response create(Client client) {
+	public Response create(User client) {
 		clients.addClient(client);
 		return Response.status(200).entity(client).build();
 	}
@@ -48,6 +44,19 @@ public class Services {
 		return Response.status(200).entity(station).build();
 	}
 	
+	@POST
+	@Path("/client/subscribe/{phone}/{id}")
+	public void subscribe(@PathParam("phone") String phone, @PathParam("id") String id) {
+		//Identifies the client and the station
+		User client = clients.getClient("phone");
+		if(client==null)
+			throw new WebApplicationException(404);
+		Station station = stations.getStation("id");
+		if(station==null)
+			throw new WebApplicationException(404);
+		
+		client.subscribeStation(station);
+	}
 	
 	/* GET METHODS */
 	@GET
@@ -64,12 +73,22 @@ public class Services {
 	@GET
 	@Path("/client/get/{phone}")
 	@Produces(MediaType.APPLICATION_JSON)
-	public Client getClient(@PathParam("phone") String phone) {
-		Client client = clients.getClient("phone");
-		if(client!=null) {
-			return client;
-		}
-		throw new WebApplicationException(404);
+	public User getClient(@PathParam("phone") String phone) {
+		User client = clients.getClient("phone");
+		if(client==null)
+			throw new WebApplicationException(404);
+		return client;
+	}
+	
+	@GET
+	@Path("client/subscribe/showSubscribed")
+	@Produces(MediaType.APPLICATION_JSON)
+	public Stations getSubscribed(@PathParam("phone") String phone) {
+		User client = clients.getClient("phone");
+		if(client==null)
+			throw new WebApplicationException(404);
+		Stations subStations = new Stations(client.getSubs());
+		return subStations;
 	}
 	
 }
