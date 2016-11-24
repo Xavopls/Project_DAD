@@ -6,12 +6,16 @@ public class User {
 
 	private String phone;
 	private String password;
-	private List<Station> subs;
-	
-	public User(String _phone, String _pass) {
-		phone = _phone;
-		password = _pass;
+	private List<String> subs;
+
+	public User(String phone, String password, List<String> subs) {
+		super();
+		this.phone = phone;
+		this.password = password;
+		this.subs = subs;
 	}
+
+	public User() {}
 
 	public String getPhone() {
 		return phone;
@@ -29,33 +33,25 @@ public class User {
 		this.password = password;
 	}
 
-	@Override
-	public String toString() {
-		return "Client [phone=" + phone + ", password=" + password + ", subs=" + subs + ", getPhone()=" + getPhone()
-				+ ", getPassword()=" + getPassword() + ", getSubs()=" + getSubs() + ", getClass()=" + getClass()
-				+ ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
-	}
-
-	public List<Station> getSubs() {
+	public List<String> getSubs() {
 		return subs;
 	}
 
-	public void setSubs(List<Station> subs) {
+	public void setSubs(List<String> subs) {
 		this.subs = subs;
 	}
-
-	public void subscribeStation(Station station) {
-		if (!subs.contains(station))
-			subs.add(station);
-		else
-			System.out.println("Unable to add, you're already subscribed to that station!");
+	public void addSubs(String id){
+		subs.add(id);
 	}
-
-	public void unsubscribeStation(Station station) {
-		int ini = subs.size();
-		subs.remove(station);
-		if (ini == subs.size()) {
-			System.out.println("Unable to unsubscribe, you are not subscribed to this station!");
-		}
-	}
+	
 }
+/*
+ * public void subscribeStation(String id) { if (!subs.contains(id))
+ * subs.add(id); else System.out.
+ * println("Unable to add, you're already subscribed to that station!"); }
+ * 
+ * public void unsubscribeStation(String id) { int ini = subs.size();
+ * subs.remove(id); if (ini == subs.size()) { System.out.
+ * println("Unable to unsubscribe, you are not subscribed to this station!"); }
+ * }
+ */

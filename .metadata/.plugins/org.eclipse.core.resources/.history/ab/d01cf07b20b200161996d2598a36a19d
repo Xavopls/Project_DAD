@@ -1,0 +1,71 @@
+package pkg_1;
+
+import server.RestServer;
+
+import java.io.IOException;
+import java.net.URI;
+
+import javax.ws.rs.core.UriBuilder;
+
+import org.glassfish.jersey.jdkhttp.JdkHttpServerFactory;
+import org.glassfish.jersey.server.ResourceConfig;
+import org.quartz.JobBuilder;
+import org.quartz.JobDetail;
+import org.quartz.Scheduler;
+import org.quartz.SchedulerException;
+import org.quartz.SchedulerFactory;
+import org.quartz.SimpleScheduleBuilder;
+import org.quartz.Trigger;
+import org.quartz.TriggerBuilder;
+import org.quartz.impl.StdSchedulerFactory;
+
+import com.sun.net.httpserver.HttpServer;
+
+import server.Services;
+
+public class TestMain {
+
+	private static Stations stations;
+	private static Users clients;
+
+	public static Stations getStations() {
+		return stations;
+	}
+
+	public static void setStations(Stations stations) {
+		TestMain.stations = stations;
+	}
+
+	public static Users getClients() {
+		return clients;
+	}
+
+	public static void setStations(Users clients) {
+		TestMain.clients = clients;
+	}
+
+	public static void scheduleJob() throws SchedulerException {
+		JobDetail job = JobBuilder.newJob(ScheduledTestJob.class).withIdentity("testJob").build();
+
+		// Specify the running period of the job
+		Trigger trigger = TriggerBuilder.newTrigger()
+				.withSchedule(SimpleScheduleBuilder.simpleSchedule().withIntervalInSeconds(30).repeatForever()).build();
+
+		// Schedule the job
+		SchedulerFactory sf = new StdSchedulerFactory();
+		Scheduler sched = sf.getScheduler();
+		sched.start();
+		sched.scheduleJob(job, trigger);
+	}
+
+
+
+	public static void main(String[] args) throws SchedulerException, IOException {
+
+		RestServer server = new RestServer();
+		server.initServer();
+		scheduleJob();
+		// Specify the job' s details..
+
+	}
+}

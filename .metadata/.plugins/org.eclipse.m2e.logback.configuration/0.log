@@ -540,3 +540,610 @@
 2016-11-23 23:54:48,842 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
 2016-11-23 23:54:48,844 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-11-23 23:54:48,893 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:33:02,396 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2016-11-24 08:45:04,650 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:45:04,698 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:45:04,705 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:45:04,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:51:28,821 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:51:28,835 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:51:28,837 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:51:28,848 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:51:33,077 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:51:33,085 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:51:33,088 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:51:33,097 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:52:07,739 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:52:07,749 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:52:07,751 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:52:07,784 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:53:08,090 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:53:08,102 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:53:08,103 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:53:08,117 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:56:06,296 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:56:06,343 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:56:06,349 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:56:06,362 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:56:27,861 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:56:27,879 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:56:27,881 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:56:27,926 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:56:52,857 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:56:52,880 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:56:52,887 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:56:52,899 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:57:37,854 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:57:37,870 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:57:37,876 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:57:37,928 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:58:39,415 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:58:39,424 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:58:39,490 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:58:39,518 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:59:09,896 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:09,915 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:59:09,918 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:10,000 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:59:19,557 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:19,710 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:59:19,723 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:19,738 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:59:28,373 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:28,438 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:59:28,447 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:28,466 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 08:59:33,909 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:33,920 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 08:59:33,922 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 08:59:33,987 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:16:30,217 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:16:30,270 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:16:30,280 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:16:30,296 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:16:40,964 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:16:40,972 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:16:40,976 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:16:40,993 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:16:50,962 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:16:50,983 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:16:50,991 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:16:51,003 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:21:48,256 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:21:48,265 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:21:48,267 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:21:48,282 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:23:00,530 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:23:00,554 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:23:00,561 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:23:00,573 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:23:23,065 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:23:23,079 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:23:23,082 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:23:23,099 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:23:41,330 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:23:41,354 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:23:41,365 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:23:41,376 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:24:40,431 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:24:40,442 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:24:40,444 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:24:40,457 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:25:59,129 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:25:59,140 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:25:59,147 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:25:59,156 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:26:27,115 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:26:27,121 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:26:27,123 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:26:27,144 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:26:31,966 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:26:31,987 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:26:31,996 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:26:32,009 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:29:46,052 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:29:46,101 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:29:46,103 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:29:46,130 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:31:01,326 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:31:01,348 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:31:01,359 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:31:01,382 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:31:27,988 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:31:28,000 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:31:28,002 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:31:28,021 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:31:56,134 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:31:56,150 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:31:56,156 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:31:56,166 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:32:07,171 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:32:07,183 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:32:07,184 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:32:07,198 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:36:48,857 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:36:48,871 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:36:48,878 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:36:48,895 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:37:47,051 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:37:47,060 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:37:47,062 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:37:47,077 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:38:00,507 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:38:00,532 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:38:00,548 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:38:00,575 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:40:12,804 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:40:12,814 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:40:12,816 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:40:12,835 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:43:28,935 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:43:28,943 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:43:28,951 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:43:28,965 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:45:28,615 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:45:28,626 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:45:28,628 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:45:28,644 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:45:36,862 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:45:36,869 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:45:36,875 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:45:36,887 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:45:48,020 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:45:48,025 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:45:48,027 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:45:48,038 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:46:05,294 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:46:05,329 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:46:05,336 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:46:05,348 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:47:21,108 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:47:21,117 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:47:21,119 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:47:21,133 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:54:29,087 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:54:29,111 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:54:29,134 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:54:29,155 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:54:33,621 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:54:33,630 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:54:33,631 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:54:33,645 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:55:08,748 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:55:08,759 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:55:08,766 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:55:08,778 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:56:11,090 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:56:11,098 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:56:11,100 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:56:11,112 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:59:09,012 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:09,027 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:59:09,035 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:09,048 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:59:13,029 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:13,039 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:59:13,040 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:13,053 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:59:29,155 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:29,179 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:59:29,195 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:29,224 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 09:59:38,975 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:38,985 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 09:59:38,987 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 09:59:39,009 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:01:49,216 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:01:49,226 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:01:49,235 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:01:49,245 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:02:47,769 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:02:47,774 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:02:47,775 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:02:47,786 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:03:13,381 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:03:13,396 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:03:13,405 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:03:13,415 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:03:33,251 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:03:33,270 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:03:33,272 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:03:33,296 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:04:17,515 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:04:17,531 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:04:17,539 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:04:17,556 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:06:15,527 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:06:15,535 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:06:15,537 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:06:15,559 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:09:27,980 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:09:27,990 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:09:27,997 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:09:28,010 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:10:32,230 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:10:32,240 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:10:32,242 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:10:32,257 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:11:09,438 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:11:09,457 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:11:09,472 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:11:09,488 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:11:32,103 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:11:32,111 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:11:32,112 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:11:32,131 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:11:51,559 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:11:51,576 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:11:51,591 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:11:51,626 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:15:55,797 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:15:55,806 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:15:55,808 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:15:55,822 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:16:16,728 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:16:16,741 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:16:16,746 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:16:16,756 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:16:47,895 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:16:47,907 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:16:47,919 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:16:47,936 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:17:42,286 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:17:42,304 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:17:42,314 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:17:42,330 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:21:59,480 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:21:59,497 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:21:59,500 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:21:59,525 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:22:03,090 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:03,108 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:22:03,115 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:03,129 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:22:13,810 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:13,817 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:22:13,818 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:13,830 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:22:22,283 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:22,292 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:22:22,300 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:22,316 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:22:29,659 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:29,669 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:22:29,671 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:22:29,691 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:25:33,644 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.12/jersey-server-2.12-sources.jar
+2016-11-24 10:25:34,517 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.12/jersey-server-2.12-sources.jar
+2016-11-24 10:25:35,475 [Worker-24] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.core:jersey-server:2.12
+2016-11-24 10:25:35,938 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:25:35,961 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:25:35,973 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:25:35,983 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:25:40,441 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:25:40,447 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:25:40,448 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:25:40,456 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:30:34,002 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:30:34,254 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:30:34,260 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:30:34,272 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:30:45,336 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:30:45,350 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:30:45,353 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:30:45,361 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:30:58,757 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:30:58,788 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:30:58,795 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:30:58,802 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:31:50,198 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:31:50,242 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:31:50,243 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:31:50,249 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:35:49,009 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:35:49,077 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:35:49,090 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:35:49,104 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:35:59,449 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:35:59,463 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:35:59,466 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:35:59,488 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:36:04,040 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:36:04,064 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:36:04,077 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:36:04,091 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:36:15,568 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:36:15,577 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:36:15,579 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:36:15,590 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:36:37,078 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:36:37,104 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:36:37,117 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:36:37,130 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:38:15,374 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:38:15,388 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:38:15,390 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:38:15,404 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:38:19,165 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:38:19,182 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:38:19,192 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:38:19,199 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:40:19,074 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:40:19,080 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:40:19,082 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:40:19,089 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:42:38,548 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:42:38,565 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:42:38,575 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:42:38,581 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:45:46,274 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:45:46,283 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:45:46,285 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:45:46,291 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:46:09,746 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:46:09,755 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:46:09,761 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:46:09,765 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:46:15,126 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:46:15,145 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:46:15,147 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:46:15,158 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:46:37,023 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:46:37,046 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:46:37,056 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:46:37,064 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:53:49,375 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:53:49,389 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:53:49,390 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:53:49,399 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:53:56,164 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:53:56,209 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:53:56,222 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:53:56,233 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:54:05,735 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:54:05,743 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:54:05,745 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:54:05,753 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:55:28,452 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:55:28,466 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:55:28,473 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:55:28,480 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:56:57,864 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:56:57,873 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:56:57,874 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:56:57,884 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 10:58:43,006 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:58:43,023 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 10:58:43,039 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 10:58:43,046 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:00:19,059 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:00:19,066 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:00:19,067 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:00:19,074 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:00:55,024 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:00:55,045 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:00:55,055 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:00:55,065 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:01:59,920 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:01:59,928 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:01:59,929 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:01:59,934 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:03:24,428 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:03:24,439 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:03:24,445 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:03:24,451 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:04:34,556 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:04:34,561 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:04:34,562 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:04:34,568 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:05:06,768 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:05:06,786 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:05:06,796 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:05:06,809 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:06:15,505 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:06:15,523 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:06:15,525 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:06:15,536 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:06:29,168 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:06:29,179 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:06:29,185 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:06:29,192 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:06:45,113 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:06:45,119 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:06:45,121 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:06:45,131 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:07:48,947 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:07:49,005 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:07:49,014 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:07:49,023 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:10:23,639 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:10:23,647 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:10:23,648 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:10:23,660 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:13:06,654 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-jdk-http/2.12/jersey-container-jdk-http-2.12-sources.jar
+2016-11-24 11:13:07,436 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-jdk-http/2.12/jersey-container-jdk-http-2.12-sources.jar
+2016-11-24 11:13:07,761 [Worker-50] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jersey.containers:jersey-container-jdk-http:2.12
+2016-11-24 11:13:08,066 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:13:08,093 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:13:08,101 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:13:08,118 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:14:09,126 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:14:09,140 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:14:09,147 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:14:09,160 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:16:14,544 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:16:14,558 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:16:14,564 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:16:14,575 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:42:15,925 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:42:15,972 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:42:15,982 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:42:15,993 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:46:55,251 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:46:55,302 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:46:55,307 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:46:55,317 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:48:15,384 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:48:15,445 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:48:15,450 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:48:15,461 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:57:54,313 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:57:54,355 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:57:54,365 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:57:54,373 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:58:23,161 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:58:23,176 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:58:23,183 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:58:23,195 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 11:58:34,762 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:58:34,773 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 11:58:34,778 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 11:58:34,789 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:00:16,003 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:00:16,012 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:00:16,020 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:00:16,030 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:00:32,488 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:00:32,499 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:00:32,505 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:00:32,514 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:00:49,803 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:00:49,815 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:00:49,821 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:00:49,830 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:01:20,045 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:01:20,054 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:01:20,060 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:01:20,068 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:01:39,522 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:01:39,531 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:01:39,536 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:01:39,547 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:02:30,459 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:02:30,468 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:02:30,474 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:02:30,482 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:03:20,028 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:03:20,036 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:03:20,044 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:03:20,053 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:04:05,301 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:05,310 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:04:05,314 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:05,322 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:04:08,149 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:08,159 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:04:08,169 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:08,183 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:04:32,120 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:32,130 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:04:32,136 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:32,147 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:04:36,281 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:36,293 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:04:36,300 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:36,309 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:04:48,992 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:49,001 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:04:49,007 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:49,015 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:04:56,499 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:56,508 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:04:56,513 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:56,522 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:04:59,645 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:59,654 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:04:59,659 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:04:59,669 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:06:53,829 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:06:53,840 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:06:53,848 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:06:53,860 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:06:59,440 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:06:59,449 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:06:59,455 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:06:59,463 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:07:25,104 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:07:25,113 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:07:25,119 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:07:25,130 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:07:34,616 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:07:34,624 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:07:34,631 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:07:34,644 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:07:58,102 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:07:58,107 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:07:58,112 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:07:58,121 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:09:50,720 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:09:50,731 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:09:50,737 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:09:50,745 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:10:18,977 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:10:18,987 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:10:18,993 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:10:19,005 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:13:53,230 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:13:53,236 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:13:53,241 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:13:53,251 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:27:56,133 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:27:56,179 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:27:56,189 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:27:56,202 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:28:01,655 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:28:01,665 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:28:01,672 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:28:01,681 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:28:16,163 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:28:16,175 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:28:16,181 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:28:16,190 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:31:11,912 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:31:11,920 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:31:11,929 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:31:11,948 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:31:51,876 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:31:51,886 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:31:51,891 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:31:51,900 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:33:32,638 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:33:32,653 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:33:32,661 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:33:32,676 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:33:49,763 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:33:49,773 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:33:49,778 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:33:49,787 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:34:45,455 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:34:45,463 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:34:45,473 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:34:45,487 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:34:53,011 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:34:53,020 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:34:53,025 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:34:53,033 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:35:45,631 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:35:45,641 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:35:45,646 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:35:45,655 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:39:26,446 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:39:26,453 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:39:26,459 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:39:26,469 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:40:45,702 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:40:45,708 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:40:45,713 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:40:45,722 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:43:41,249 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:43:41,255 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:43:41,260 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:43:41,271 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:45:24,456 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:45:24,460 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:45:24,466 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:45:24,481 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
+2016-11-24 12:47:28,780 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:47:28,790 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\main\resources
+2016-11-24 12:47:28,795 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-24 12:47:28,803 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\acrox\OneDrive\Documentos\GitHub\Project_DAD\Project_DAD\src\test\resources
